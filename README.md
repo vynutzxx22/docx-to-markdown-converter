@@ -19,8 +19,19 @@ A Windows desktop utility that converts Microsoft Word `.docx` documents into Ma
 ## Download
 
 Open the repository's **Releases** page and download `DOCX-to-Markdown-Converter.exe` from the latest release.
+Or
+You can download the latest standalone binaries and source code directly without opening the Releases page:
 
-The executable is a Windows x64, single-file PyInstaller build. It does not require a separate Python installation. Since the executable is not code-signed, Windows SmartScreen may display a warning.
+| Asset | Platform / Type | Direct Download Link |
+| :--- | :--- | :--- |
+| 📦 **DOCX-to-Markdown-Converter.exe** | Windows x64 (Standalone Executable) | [**Download Latest .exe**](https://github.com/vynutzxx22/docx-to-markdown-converter/releases/latest/download/DOCX-to-Markdown-Converter.exe) |
+| 🗜️ **Source code (zip)** | Archive | [**Download .zip**](https://github.com/vynutzxx22/docx-to-markdown-converter/archive/refs/tags/v1.0.0.zip) |
+| 🗜️ **Source code (tar.gz)** | Archive | [**Download .tar.gz**](https://github.com/vynutzxx22/docx-to-markdown-converter/archive/refs/tags/v1.0.0.tar.gz) |
+
+> ℹ️ **Note on Windows SmartScreen:**  
+> The executable is a single-file PyInstaller build for Windows x64 and does not require Python to be installed. Because it is not digitally signed with a paid certificate, Windows SmartScreen might show a security warning. If prompted, click **"More info"** and then select **"Run anyway"**.
+
+---
 
 ## Run from source
 
